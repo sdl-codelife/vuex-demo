@@ -1,4 +1,4 @@
-# vuex
+# vuex 计数器 小demo
 
 ## Project setup
 ```
